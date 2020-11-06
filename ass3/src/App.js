@@ -9,7 +9,7 @@ function App() {
         <p>
           welcome to updated app for ass 3
           <br></br>
-          SYED HAIDER ABBAS KAZMI 2017456 ASSIGNMENT 3
+          this is SYED HAIDER ABBAS KAZMI 2017456 ASSIGNMENT 3
         </p>
         <a
           className="App-link"
